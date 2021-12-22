@@ -5,9 +5,14 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetScr", "SetScr\SetScr.csproj", "{A7A96C6F-3065-4436-AAA0-85FCAA5EFD69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenUtils", "ScreenUtils\ScreenUtils.csproj", "{5127F420-3759-4889-A687-64D257B3EBF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScreenUtils", "ScreenUtils\ScreenUtils.csproj", "{5127F420-3759-4889-A687-64D257B3EBF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotKeyUtils", "HotKeyUtils\HotKeyUtils.csproj", "{7E9EC40E-5AEE-4299-A3C3-DEDCB1EC1C5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotKeyUtils", "HotKeyUtils\HotKeyUtils.csproj", "{7E9EC40E-5AEE-4299-A3C3-DEDCB1EC1C5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BACCAE72-BB33-473F-8157-CBD7B886909E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
